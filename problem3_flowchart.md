@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     START([START])
     INPUT1[/Enter Hourly Rate/]
@@ -11,3 +12,4 @@ flowchart TD
     INPUT2 --> PROCESS
     PROCESS --> OUTPUT
     OUTPUT --> END
+```
