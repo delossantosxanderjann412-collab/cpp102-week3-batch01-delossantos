@@ -1,0 +1,7 @@
+BEGIN
+INPUT Length
+INPUT Width 
+Area ← Length * Width
+OUTPUT "The area of the rectangular garden is: ", Area
+END
+

@@ -1,0 +1,13 @@
+BEGIN
+INPUT Price1, Quantity1
+INPUT Price2, Quantity2
+INPUT Price3, Quantity3
+
+Total1 ← Price1 * Quantity1
+Total2 ← Price2 * Quantity2
+Total3 ← Price3 * Quantity3
+
+TotalBill ← Total1 + Total2 + Total3
+
+OUTPUT "Total Bill = ", TotalBill
+END

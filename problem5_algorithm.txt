@@ -1,0 +1,10 @@
+START
+1. Input Price1, Quantity1
+2. Input Price2, Quantity2
+3. Input Price3, Quantity3
+4. Compute Total1 = Price1 × Quantity1
+5. Compute Total2 = Price2 × Quantity2
+6. Compute Total3 = Price3 × Quantity3
+7. Compute TotalBill = Total1 + Total2 + Total3
+8. Display TotalBill
+END

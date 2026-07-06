@@ -1,0 +1,8 @@
+
+Algorithm
+Step 1: Start.
+Step 2: num1
+Step 3: num2
+Step 4: compute sum = num1+ num2
+Step 5: 3
+Step 6: End

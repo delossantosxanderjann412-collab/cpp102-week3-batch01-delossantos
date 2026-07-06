@@ -1,0 +1,9 @@
+BEGIN
+INPUT Quiz1
+INPUT Quiz2
+INPUT Quiz3
+
+Average ← (Quiz1 + Quiz2 + Quiz3) / 3
+
+OUTPUT "Average Score = ", Average
+END

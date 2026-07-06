@@ -1,0 +1,8 @@
+BEGIN
+INPUT HourlyRate
+INPUT HoursWorked
+
+GrossPay ← HourlyRate * HoursWorked
+
+OUTPUT "Gross Pay = ", GrossPay
+END

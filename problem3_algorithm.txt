@@ -1,0 +1,6 @@
+START
+1. Input hourly rate
+2. Input number of hours worked
+3. Compute gross pay = hourly rate × number of hours worked
+4. Display gross pay
+END

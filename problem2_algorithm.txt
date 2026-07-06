@@ -1,0 +1,7 @@
+Start.
+Input the length of the garden.
+Input the width of the garden.
+Compute the area using the formula:
+Area = Length × Width
+Display the area.
+End.

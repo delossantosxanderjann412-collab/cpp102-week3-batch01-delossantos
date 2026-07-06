@@ -1,0 +1,7 @@
+START
+1. Input QuizScore1
+2. Input QuizScore2
+3. Input QuizScore3
+4. Compute Average = (QuizScore1 + QuizScore2 + QuizScore3) / 3
+5. Display Average
+END

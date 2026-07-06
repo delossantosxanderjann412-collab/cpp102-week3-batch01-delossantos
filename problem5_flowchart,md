@@ -1,0 +1,24 @@
+flowchart TD
+    START([START])
+
+    INPUT1[/Enter Price 1 and Quantity 1/]
+    INPUT2[/Enter Price 2 and Quantity 2/]
+    INPUT3[/Enter Price 3 and Quantity 3/]
+
+    PROCESS1[Total1 = P1 × Q1]
+    PROCESS2[Total2 = P2 × Q2]
+    PROCESS3[Total3 = P3 × Q3]
+    PROCESS4[TotalBill = Total1 + Total2 + Total3]
+
+    OUTPUT[/Display Total Bill/]
+    END([END])
+
+    START --> INPUT1
+    INPUT1 --> INPUT2
+    INPUT2 --> INPUT3
+    INPUT3 --> PROCESS1
+    PROCESS1 --> PROCESS2
+    PROCESS2 --> PROCESS3
+    PROCESS3 --> PROCESS4
+    PROCESS4 --> OUTPUT
+    OUTPUT --> END

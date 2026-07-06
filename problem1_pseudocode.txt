@@ -1,0 +1,4 @@
+flowchart TD
+    A[Father] -->|allowance| C(Andrei)
+    B[Mother] -->|allowance| C(andrei)
+  
