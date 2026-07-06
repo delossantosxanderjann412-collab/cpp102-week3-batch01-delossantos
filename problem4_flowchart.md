@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     START([START])
     INPUT1[/Enter Quiz Score 1/]
@@ -13,3 +14,4 @@ flowchart TD
     INPUT3 --> PROCESS
     PROCESS --> OUTPUT
     OUTPUT --> END
+```
