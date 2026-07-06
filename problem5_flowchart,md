@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     START([START])
 
@@ -22,3 +23,4 @@ flowchart TD
     PROCESS3 --> PROCESS4
     PROCESS4 --> OUTPUT
     OUTPUT --> END
+```
